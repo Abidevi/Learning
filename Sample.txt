@@ -8,5 +8,5 @@ Editing the file
 
 --------------->Checking merge conflict by user Abinayanirmala
 
---------------->Adding Preview feature
+--------------->Adding Preview feature 
 
